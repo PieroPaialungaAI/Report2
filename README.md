@@ -8,14 +8,14 @@ In this notebook data has been preprocessed: the mean value of the data and a li
 Time independent Fourier Analysis has been performed. By the usage of an opportune filter, a forecast has been made.
 
 ## 3. "fouriermethod2.ipynb" 
-Time dependent Fourier Analysis has been performed. 
+Time dependent Fourier Analysis has been performed. By the usage of an opportune filter, a forecast has been made.
 
-## 4. "wavefiltering.ipynb" 
+## 4. "waveletfiltering.ipynb" 
 A wavelet filter has been adopted to clean the signal. 
 
 ## 5. "SARIMA.ipynb"
-Sarima and Arima processes have been made in order to perform a forecast.
+Sarima and Arima processes have been made in order to perform a forecast on the dataset that has been cleaned by the wavelet filtering.
 
-##6. "Deconvolution.ipynb"
+## 6. "Deconvolution.ipynb"
 A deconvolution algorithm has been applied and a forecast has been made on the last year available (2016)
 
