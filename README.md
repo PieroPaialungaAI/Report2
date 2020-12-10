@@ -1,5 +1,5 @@
 # Digital Data Analysis, Report 2
-This GitHub repository contains all the codes that have been used during the Report n.2 of the Digital Data Analysis course. The codes are described in the following lines following the natural workflow that has guided the writing session of the Report n.3 too.
+This GitHub repository contains all the codes that have been used during the Report n.2 of the Digital Data Analysis course. The codes are described in the following lines following the natural workflow that has guided the writing session of the Report n.2 too.
 
 ## 1. "datapreprocessing.ipynb"
 In this notebook data has been preprocessed: the mean value of the data and a linear fit has been subtracted by the original data. Moreover an hanning window has been applied
