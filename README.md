@@ -20,3 +20,8 @@ Sarima and Arima processes have been made in order to perform a forecast on the 
 A deconvolution algorithm has been applied and a forecast has been made on the last year available (2016)
 
 # In addiction:
+
+# data.csv
+The dataset
+
+#Report2_group1.pdf
