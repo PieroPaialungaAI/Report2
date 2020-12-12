@@ -19,3 +19,4 @@ Sarima and Arima processes have been made in order to perform a forecast on the 
 ## 6. "Deconvolution.ipynb"
 A deconvolution algorithm has been applied and a forecast has been made on the last year available (2016)
 
+# In addiction:
